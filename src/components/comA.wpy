@@ -1,0 +1,15 @@
+<!-- components/comA.wpy -->
+
+<template>
+      <view>comA</view>
+</template>
+
+
+
+<script>
+import wepy from '@wepy/core';
+
+wepy.component({
+  // 选项
+});
+</script>
